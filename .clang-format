@@ -1,0 +1,3 @@
+# コメントを勝手に改行しないようにする
+ReflowComments: false
+AlignTrailingComments: false
