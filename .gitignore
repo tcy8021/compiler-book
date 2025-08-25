@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# user
+*~
+*.o
+tmp*
+a.out
+9cc
+.devcontainer
+.vscode
